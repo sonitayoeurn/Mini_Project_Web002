@@ -1,16 +1,18 @@
 import { usePathname } from "next/navigation"
 import React from "react"
+
 // meta data
-export const metadata = {	
-	title: "Login",
-	description: "Login",
+export const metadata = {
+	title: "Login - ISTAD | Secure Access to Your Account",
+	description: "Login to your ISTAD account securely and access your personalized dashboard. Get started with ISTAD's features and services.",
 	openGraph: {
-		type: "website",
-		url: `/login`,
-		title: "Login",
-		description: "Login",
+	  type: "website",
+	  url: "/login",
+	  title: "Login - ISTAD | Secure Access to Your Account",
+	  description: "Login to your ISTAD account securely and access your personalized dashboard. Get started with ISTAD's features and services.",
 	},
-}
+  };
+  
 
 const page = () => {
 

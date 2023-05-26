@@ -31,21 +31,21 @@ import Image from "next/image"
 	
 // }
 export const metadata = {
-	title: "Buy Products Online - ISTAD",
+	title: "Home - ISTAD",
 	description: "Find a wide range of high-quality products for sale at ISTAD.",
-	images: "/images/product.png",
+	images: "/images/we.jpg",
 	
 	openGraph: {
 	  title: "Buy Products Online - ISTAD",
 	  description: "Find a wide range of high-quality products for sale at ISTAD.",
-	  url: "https://next-v13-with-form-upload-file.vercel.app/",
-	  images: "/images/product.png",
+	  url: "https://mini-project-web002.vercel.app/",
+	  images: "/images/we.jpg",
 	},
 	twitter: {
 	  title: "Buy Products Online - ISTAD",
 	  description: "Find a wide range of high-quality products for sale at ISTAD.",
-	  url: "https://myapp.com",
-	  image: "https://myapp.com/og.png",
+	  url: "https://mini-project-web002.vercel.app/",
+	  image: "/images/we.jpg",
 	},
   };
   
