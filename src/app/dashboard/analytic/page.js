@@ -7,7 +7,7 @@ export const metadata = {
   }
 const page = () => {
   return (
-    <div className='text-3xl text-center'>page analytic</div>
+    <div className='text-3xl text-center'>Analytic page</div>
   )
 }
 
