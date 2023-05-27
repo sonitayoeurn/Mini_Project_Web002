@@ -33,19 +33,19 @@ import Image from "next/image"
 export const metadata = {
 	title: "Home - ISTAD",
 	description: "Find a wide range of high-quality products for sale at ISTAD.",
-	images: "/images/we.jpg",
+	images: "/images/devops.jpg",
 	
 	openGraph: {
 	  title: "Buy Products Online - ISTAD",
 	  description: "Find a wide range of high-quality products for sale at ISTAD.",
 	  url: "https://mini-project-web002.vercel.app/",
-	  images: "/images/we.jpg",
+	  images: "/images/devops.jpg",
 	},
 	twitter: {
 	  title: "Buy Products Online - ISTAD",
 	  description: "Find a wide range of high-quality products for sale at ISTAD.",
 	  url: "https://mini-project-web002.vercel.app/",
-	  image: "/images/we.jpg",
+	  image: "/images/devops.jpg",
 	},
   };
   
